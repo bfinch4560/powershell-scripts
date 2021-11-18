@@ -1,0 +1,2 @@
+﻿Invoke-WebRequest -Uri 'https://cdn01.foxitsoftware.com/pub/foxit/reader/desktop/win/11.x/11.1/en_us/FoxitPDFReader111_Setup.exe' -OutFile FoxitPDFReader111_Setup.exe
+Invoke-WebRequest -Uri 'https://allworxportal.com/software/interact/Interact_Install_Enterprise.msi' -OutFile Interact_Install_Enterprise.msi

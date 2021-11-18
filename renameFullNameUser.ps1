@@ -1,0 +1,1 @@
+﻿set-localuser -name MHadmin -fullname "MHadmin"

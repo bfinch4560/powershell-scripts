@@ -1,0 +1,1 @@
+﻿New-PSDrive -Persist -Scope "Global" -Name "P" -PSProvider "FileSystem" -Root "\\mhsynology-c\Public"

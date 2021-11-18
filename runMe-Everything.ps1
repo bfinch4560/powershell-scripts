@@ -1,0 +1,1 @@
+﻿Start-Process -FilePath "everything.ps1" -Verb RunAs

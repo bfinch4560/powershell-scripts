@@ -1,0 +1,1 @@
+﻿Rename-LocalUser -Name "Admin" -NewName "MHadmin"
